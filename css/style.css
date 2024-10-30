@@ -1,0 +1,15 @@
+.card img {
+    height: 100%;
+    object-fit: cover; 
+}
+
+#btnBuscar {
+    color: white;
+    background-color: red;
+    border-color: red;
+}
+
+#pokeball {
+    width: 30px; 
+    height: 30px;
+}
